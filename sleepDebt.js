@@ -1,4 +1,4 @@
-/* This Project calculates the Sleep debt. Sleep is good our health.
+/* This Project calculates the number of Sleep debts. Sleep is good for our health.
 
     Assuming 8 hours of sleep each day is ideal for optimum health,
     We obtain the number of actual hours you sleep and determine
